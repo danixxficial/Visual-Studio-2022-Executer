@@ -1,2 +1,5 @@
 # Visual-Studio-2022-Executer
-This is for the 2022 Visual Studio. Mostly for students!
+2022 Visual Studio, Mostly for students but you can still if you need it!
+
+# Chotto-mate!
+This is not an virus nor anything, the fact is i can't find any visual studio 2022 downloads on the internet so i decided to post here!
